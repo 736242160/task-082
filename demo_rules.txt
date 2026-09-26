@@ -1,0 +1,3 @@
+open  \{          push:block
+close \}          pop:block
+word  [A-Za-z]+   collect
